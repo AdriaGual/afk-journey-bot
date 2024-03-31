@@ -1,11 +1,12 @@
-## Legend Of Mushroom Bot 🍄
+## Afk Journey Bot ⚔️
 
 ## Description:
 
-The Legend Of Mushroom Bot is an automation tool designed to streamline gameplay within the "Legend of Mushroom" game. Tailored specifically for LDPlayer, an Android emulator, this bot simplifies repetitive tasks by automating gameplay actions, allowing users to focus on strategic decisions and progression.
+Afk Journey Bot is a versatile automation tool designed to simplify gameplay within the "Afk Journey" game. Developed specifically for use with LDPlayer, an Android emulator, this bot empowers players by automating repetitive tasks, allowing them to focus on strategic decisions and progression without the hassle of manual gameplay.
 
 
-https://github.com/AdriaGual/legend-of-mushroom-bot/assets/25803231/b9fff28f-d8c8-451c-abfe-11e3ebd4fbaa
+https://github.com/AdriaGual/afk-journey-bot/assets/25803231/1f00cf01-839f-4e77-a68b-37a5233b82c0
+
 
 ## Usage:
 
@@ -23,25 +24,22 @@ https://github.com/AdriaGual/legend-of-mushroom-bot/assets/25803231/b9fff28f-d8c
 
 ## Key Features:
 
-- **Emulator Path Selection:** Users can easily specify the path to their LDPlayer installation within the bot's interface, facilitating seamless integration with the emulator.
+- **Emulator Path Configuration:** Users can effortlessly designate the path to their LDPlayer installation, ensuring seamless integration with the emulator.
   
-- **Lamp Loop Automation:** The bot automates the process of rolling the lamp within the game, optimizing the acquisition of equipment and resources. It intelligently equips better equipment as it becomes available, enhancing the player's in-game capabilities.
-  
-- **Dungeon Exploration:** With automated dungeon exploration functionality, the bot navigates through dungeons efficiently, engaging in battles and completing quests to advance the player's progress.
+- **Run Script Automation:** The bot automates the execution of a predefined script within Afk Journey, efficiently obtaining rewards and enhancing the team's power-ups.
 
 ## Benefits:
 
-- **Efficiency:** By automating repetitive tasks such as lamp rolling and dungeon exploration, the bot significantly reduces the time and effort required for gameplay, allowing players to achieve their goals more efficiently.
+- **Enhanced Efficiency:** By automating repetitive tasks like reward collection and power-up execution, the bot significantly reduces the time and effort required for gameplay, enabling players to progress more efficiently.
   
-- **Optimization:** Through intelligent equipment management and strategic decision-making, the bot maximizes the effectiveness of in-game resources, enhancing the player's overall gaming experience.
+- **Optimized Gameplay:** Through streamlined execution of scripted actions, the bot maximizes resource utilization and strategic decision-making, elevating the overall gaming experience.
   
-- **Convenience:** The user-friendly interface and seamless integration with LDPlayer make the bot easy to set up and operate, providing players with a convenient solution for enhancing their gameplay experience.
+- **User Convenience:** With a user-friendly interface and easy setup process, the bot offers unparalleled convenience, empowering players to enhance their Afk Journey gameplay effortlessly.
 
 ## Target Audience:
 
-- **Gamers:** Legend Of Mushroom players seeking to streamline gameplay and optimize resource management.
+- **Afk Journey Players:** Individuals seeking to streamline gameplay and optimize resource management within the Afk Journey universe.
   
-- **LDPlayer Users:** Users of the LDPlayer Android emulator looking to enhance their gaming experience through automation.
+- **LDPlayer Enthusiasts:** Users of the LDPlayer Android emulator looking to augment their gaming experience through automation and efficiency.
 
-Overall, the Legend Of Mushroom Bot offers a powerful yet user-friendly solution for automating gameplay tasks within the Legend of Mushroom game, providing players with greater efficiency, optimization, and convenience in their gaming journey.
-"# afk-journey-bot" 
+Afk Journey Bot presents a robust solution for automating gameplay tasks within the Afk Journey game, delivering enhanced efficiency, optimization, and convenience to players on their journey through the virtual realm.
